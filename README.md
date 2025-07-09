@@ -90,7 +90,7 @@ I specialize in building and programming intelligent robotic systems across land
 
 ###  Python Projects
 - [`Project Name`](link) — Short description.
-- 
+  
 ###  C++ Projects
 - [`Project Name`](link) — Short description.
 
