@@ -81,20 +81,23 @@ I specialize in building and programming intelligent robotic systems across land
 
 ## 📦 What I’m Working On
 
-- ⚡ Scaling local LLM for decentralized/centralized AI networks  
-- 🛩️ Building drone-assisted robotics kits with real-time control  
-- 🤖 Integrating AI into robotics: autonomous, sensor-reactive systems  
-- 📊 Automating workflows with Python, APIs, and no-code tools
+-  Scaling local LLM for decentralized/centralized AI networks  
+-  Building drone-assisted robotics kits with real-time control  
+-  Integrating AI into robotics: autonomous, sensor-reactive systems  
+-  Automating workflows with Python, APIs, and no-code tools
 
 ## 🧩 My Projects
 
-### 🐍 Python Projects
+###  Python Projects
+- [`Project Name`](link) — Short description.
+- 
+###  C++ Projects
 - [`Project Name`](link) — Short description.
 
-### 🤖 AI / LLM Projects
+###  AI / LLM Projects
 - [`Project Name`](link) — Short description.
 
-### 🔧 Robotics & Embedded Systems
+###  Robotics & Embedded Systems
 - [`Project Name`](link) — Short description.
 
 
