@@ -12,7 +12,7 @@
 
 ## 🧠 AI & Decentralized/Centralized Systems
 
-Currently building and optimizing miners on cutting-edge AI networks like:
+Currently building and optimizing on cutting-edge AI networks like:
 
 -  **AI Factory** — Qwen/DeepSeek-based scientific generation systems  
 -  **Merit** — Evaluating reputation via hash-based scoring  
