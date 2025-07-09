@@ -81,7 +81,7 @@ I specialize in building and programming intelligent robotic systems across land
 
 ## 📦 What I’m Working On
 
-- ⚡ Scaling local LLM miners for decentralized AI networks  
+- ⚡ Scaling local LLM for decentralized/centralized AI networks  
 - 🛩️ Building drone-assisted robotics kits with real-time control  
 - 🤖 Integrating AI into robotics: autonomous, sensor-reactive systems  
 - 📊 Automating workflows with Python, APIs, and no-code tools
