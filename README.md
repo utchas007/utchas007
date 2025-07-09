@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🧠 Building intelligent systems across decentralized networks, robotics labs, and real-time automation pipelines.
+   Building intelligent systems across decentralized networks, robotics labs, and real-time automation pipelines.
 </p>
 
 ---
