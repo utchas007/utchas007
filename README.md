@@ -33,7 +33,7 @@ I specialize in building and programming intelligent robotic systems across land
 - 🌊 Developed **underwater robotics** using pressure sensors, buoyancy control, and Arduino-based logic  
 - ⚙️ Created **Arduino-based automation** projects: obstacle detection, servo control, buzzer systems, IR remotes  
 - 🍓 Used **Raspberry Pi** for image capture, GPIO automation, sensor processing, and cloud API integration  
-- 🔋 Ran LLMs and CUDA pipelines on **NVIDIA RTX 3090** for AI-powered robotics tasks and miner workloads  
+- 🔋 Ran LLMs and CUDA pipelines on **NVIDIA RTX Series** for AI-powered robotics tasks and system workloads  
 - 🤖 Integrated real-time **sensor fusion systems** for obstacle avoidance, path planning, and decision logic  
 - 🧪 Focused on field testing, power management, PWM tuning, and microcontroller protocol integration (UART, I2C, SPI)
 
