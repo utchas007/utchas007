@@ -22,9 +22,11 @@ Currently building and optimizing miners on cutting-edge AI networks like:
 - 🧪 Deploying **local LLMs** (LLaMA, Qwen, DeepSeek) via OpenAI-compatible APIs
 
 <p align="center">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="100" />
-  <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="80" />
+  <img src="https://makeabilitylab.github.io/physcomp/arduino/assets/movies/Arduino_LEDOn_5VFixed_USBPower.gif" width="180" alt="Arduino GIF" />
+  <img src="https://opencv.org/wp-content/uploads/2025/03/Raspberry-Pi-with-OpenCV-raspberry-pi.gif" width="250" alt="Raspberry Pi GIF" />
+  <img src="https://cdn.dribbble.com/userupload/4297888/file/original-e73618428a72133a58c0dbec1c913e5f.gif" width="200" alt="NVIDIA GIF" />
 </p>
+
 
 ---
 
