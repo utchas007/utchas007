@@ -28,14 +28,14 @@ Currently building and optimizing on cutting-edge AI networks like:
 
 I specialize in building and programming intelligent robotic systems across land, air, and underwater. My work focuses on sensor fusion, autonomy, and real-world deployment using embedded platforms like **Arduino**, **Raspberry Pi**, and **NVIDIA GPUs**.
 
-- 🛠️ Designed & deployed **ground robots** using ultrasonic sensors, encoders, and C++/Python logic  
-- ✈️ Built autonomous **UAV drones** with DroneKit, GPS, Raspberry Pi, and telemetry  
-- 🌊 Developed **underwater robotics** using pressure sensors, buoyancy control, and Arduino-based logic  
-- ⚙️ Created **Arduino-based automation** projects: obstacle detection, servo control, buzzer systems, IR remotes  
-- 🍓 Used **Raspberry Pi** for image capture, GPIO automation, sensor processing, and cloud API integration  
-- 🔋 Ran LLMs and CUDA pipelines on **NVIDIA RTX Series** for AI-powered robotics tasks and system workloads  
-- 🤖 Integrated real-time **sensor fusion systems** for obstacle avoidance, path planning, and decision logic  
-- 🧪 Focused on field testing, power management, PWM tuning, and microcontroller protocol integration (UART, I2C, SPI)
+-  Designed & deployed **ground robots** using ultrasonic sensors, encoders, and C++/Python logic  
+-  Built autonomous **UAV drones** with DroneKit, GPS, Raspberry Pi, and telemetry  
+-  Developed **underwater robotics** using pressure sensors, buoyancy control, and Arduino-based logic  
+-  Created **Arduino-based automation** projects: obstacle detection, servo control, buzzer systems, IR remotes  
+-  Used **Raspberry Pi** for image capture, GPIO automation, sensor processing, and cloud API integration  
+-  Ran LLMs and CUDA pipelines on **NVIDIA RTX Series** for AI-powered robotics tasks and system workloads  
+-  Integrated real-time **sensor fusion systems** for obstacle avoidance, path planning, and decision logic  
+-  Focused on field testing, power management, PWM tuning, and microcontroller protocol integration (UART, I2C, SPI)
 
 <p align="center">
   <img src="https://makeabilitylab.github.io/physcomp/arduino/assets/movies/Arduino_LEDOn_5VFixed_USBPower.gif" width="180" alt="Arduino GIF" />
