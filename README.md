@@ -80,6 +80,18 @@ I specialize in building and programming intelligent robotic systems across land
 - 🤖 Integrating AI into robotics: autonomous, sensor-reactive systems  
 - 📊 Automating workflows with Python, APIs, and no-code tools
 
+## 🧩 My Projects
+
+### 🐍 Python Projects
+- [`Project Name`](link) — Short description.
+
+### 🤖 AI / LLM Projects
+- [`Project Name`](link) — Short description.
+
+### 🔧 Robotics & Embedded Systems
+- [`Project Name`](link) — Short description.
+
+
 <h3 align="center">🚀 Tech Stack I Use</h3>
 
 <p align="center">
