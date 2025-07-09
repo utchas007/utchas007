@@ -21,12 +21,6 @@ Currently building and optimizing miners on cutting-edge AI networks like:
 - ⚡ **Polaris / LogicNet / TPN / RL-Swarm** — Real-time LLM miners using PM2, Docker, and WireGuard  
 - 🧪 Deploying **local LLMs** (LLaMA, Qwen, DeepSeek) via OpenAI-compatible APIs
 
-<p align="center">
-  <img src="https://makeabilitylab.github.io/physcomp/arduino/assets/movies/Arduino_LEDOn_5VFixed_USBPower.gif" width="180" alt="Arduino GIF" />
-  <img src="https://opencv.org/wp-content/uploads/2025/03/Raspberry-Pi-with-OpenCV-raspberry-pi.gif" width="250" alt="Raspberry Pi GIF" />
-  <img src="https://cdn.dribbble.com/userupload/4297888/file/original-e73618428a72133a58c0dbec1c913e5f.gif" width="200" alt="NVIDIA GIF" />
-</p>
-
 
 ---
 
@@ -43,11 +37,10 @@ I specialize in building and programming intelligent robotic systems across land
 - 🤖 Integrated real-time **sensor fusion systems** for obstacle avoidance, path planning, and decision logic  
 - 🧪 Focused on field testing, power management, PWM tuning, and microcontroller protocol integration (UART, I2C, SPI)
 
-  
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.gif" width="150" alt="Arduino GIF" />
-  <img src="https://opencv.org/wp-content/uploads/2025/03/Raspberry-Pi-with-OpenCV-raspberry-pi.gif" width="250" alt="Raspberry Pi OpenCV GIF" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg" width="180" alt="NVIDIA Logo" />
+  <img src="https://makeabilitylab.github.io/physcomp/arduino/assets/movies/Arduino_LEDOn_5VFixed_USBPower.gif" width="180" alt="Arduino GIF" />
+  <img src="https://opencv.org/wp-content/uploads/2025/03/Raspberry-Pi-with-OpenCV-raspberry-pi.gif" width="250" alt="Raspberry Pi GIF" />
+  <img src="https://cdn.dribbble.com/userupload/23417871/file/original-639473334265174254dcaad933fdf0e8.gif" width="220" alt="NVIDIA GIF" />
 </p>
 
 
