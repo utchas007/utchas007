@@ -44,6 +44,11 @@ I specialize in building and programming intelligent robotic systems across land
 </p>
 
 
+<p align="center">
+  <img src="https://do.martianis.com/web/uploads/vehicle/Z32QdY_W3fIQtPVZoqrdQ_w3GufRsrTl.gif" width="280" alt="Drone GIF" />
+</p>
+
+
 ---
 
 ## 🏆 Robotics, Drones & Competition Experience
