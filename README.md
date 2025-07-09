@@ -14,12 +14,12 @@
 
 Currently building and optimizing miners on cutting-edge AI networks like:
 
-- 🛰️ **AI Factory (SN80)** — Qwen/DeepSeek-based scientific generation systems  
-- 🔐 **Merit (SN73)** — Evaluating reputation via hash-based scoring  
-- 🧠 **Neural Condense (SN27)** — High-throughput inference using CUDA  
-- 🎶 **SoundsRight** — Audio classification & generation with local models  
-- ⚡ **Polaris / LogicNet / TPN / RL-Swarm** — Real-time LLM miners using PM2, Docker, and WireGuard  
-- 🧪 Deploying **local LLMs** (LLaMA, Qwen, DeepSeek) via OpenAI-compatible APIs
+-  **AI Factory** — Qwen/DeepSeek-based scientific generation systems  
+-  **Merit** — Evaluating reputation via hash-based scoring  
+-  **Neural Condense** — High-throughput inference using CUDA  
+-  **SoundsRight** — Audio classification & generation with local models  
+-  **Polaris / LogicNet / TPN / RL-Swarm** — Real-time LLM miners using PM2, Docker, and WireGuard  
+-  Deploying **local LLMs** (LLaMA, Qwen, DeepSeek) via OpenAI-compatible APIs
 
 
 ---
@@ -53,10 +53,10 @@ I specialize in building and programming intelligent robotic systems across land
 
 ## 🏆 Robotics, Drones & Competition Experience
 
-- 🏅 **2x VEX IQ, FRC, FTC, FLL champion mentor**  
-- 🔧 Hands-on with **Clawbot IQ, Armbot, Autopilot, Ike**  
-- ✈️ Designed classroom drone navigation challenges with Python + microcontrollers  
-- 🧩 Prototyped AI-based control systems for robotic decision making
+- **2x VEX IQ, FRC, FTC, FLL champion mentor**  
+- Hands-on with **Clawbot IQ, Armbot, Autopilot, Ike**  
+- Designed classroom drone navigation challenges with Python + microcontrollers  
+- Prototyped AI-based control systems for robotic decision making
 
 <p align="center">
   <img src="https://filedb.experts-exchange.com/incoming/2015/06_w26/920246/cyborg.gif" width="280" alt="Cyborg GIF" />
