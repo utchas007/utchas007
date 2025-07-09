@@ -40,12 +40,11 @@ I specialize in building and programming intelligent robotic systems across land
 - 🔋 Ran LLMs and CUDA pipelines on **NVIDIA RTX 3090** for AI-powered robotics tasks and miner workloads  
 - 🤖 Integrated real-time **sensor fusion systems** for obstacle avoidance, path planning, and decision logic  
 - 🧪 Focused on field testing, power management, PWM tuning, and microcontroller protocol integration (UART, I2C, SPI)
-- 
-![image](https://github.com/user-attachments/assets/4bc28624-9124-4775-a92c-b1dd173d837a)
 
+  
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.gif" width="150" alt="Arduino GIF" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Raspberry_Pi_Logo.svg/512px-Raspberry_Pi_Logo.svg.png" width="150" alt="Raspberry Pi Logo" />
+  <img src="https://opencv.org/wp-content/uploads/2025/03/Raspberry-Pi-with-OpenCV-raspberry-pi.gif" width="250" alt="Raspberry Pi OpenCV GIF" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg" width="180" alt="NVIDIA Logo" />
 </p>
 
