@@ -42,10 +42,11 @@ I specialize in building and programming intelligent robotic systems across land
 - 🧪 Focused on field testing, power management, PWM tuning, and microcontroller protocol integration (UART, I2C, SPI)
 
 <p align="center">
-  <img src="https://github.com/UtkarshVerma128/UtkarshVerma128/blob/master/Assets/arduino.gif?raw=true" width="200" alt="Arduino GIF" />
-  <img src="https://www.raspberrypi.com/app/uploads/2021/07/Raspberry-Pi-400.gif" width="250" alt="Raspberry Pi GIF" />
-  <img src="https://cdn.dribbble.com/users/1472201/screenshots/6120898/nvidia_dribbble.gif" width="200" alt="NVIDIA GPU GIF" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.gif" width="150" alt="Arduino GIF" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Raspberry_Pi_Logo.svg/512px-Raspberry_Pi_Logo.svg.png" width="150" alt="Raspberry Pi Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg" width="180" alt="NVIDIA Logo" />
 </p>
+
 
 ---
 
