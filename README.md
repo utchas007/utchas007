@@ -12,7 +12,7 @@
 
 ## 🧠 AI & Decentralized Systems
 
-Currently building and optimizing miners on cutting-edge AI networks like **Bittensor**, **Gensyn**, and **MetaHash**:
+Currently building and optimizing miners on cutting-edge AI networks like:
 
 - 🛰️ **AI Factory (SN80)** — Qwen/DeepSeek-based scientific generation systems  
 - 🔐 **Merit (SN73)** — Evaluating reputation via hash-based scoring  
