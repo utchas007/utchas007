@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 AI & Decentralized Systems
+## 🧠 AI & Decentralized/Centralized Systems
 
 Currently building and optimizing miners on cutting-edge AI networks like:
 
@@ -42,7 +42,7 @@ I specialize in building and programming intelligent robotic systems across land
 - 🧪 Focused on field testing, power management, PWM tuning, and microcontroller protocol integration (UART, I2C, SPI)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/makermelissa/makermelissa/master/images/arduino.gif" width="200" alt="Arduino GIF" />
+  <img src="https://github.com/UtkarshVerma128/UtkarshVerma128/blob/master/Assets/arduino.gif?raw=true" width="200" alt="Arduino GIF" />
   <img src="https://www.raspberrypi.com/app/uploads/2021/07/Raspberry-Pi-400.gif" width="250" alt="Raspberry Pi GIF" />
   <img src="https://cdn.dribbble.com/users/1472201/screenshots/6120898/nvidia_dribbble.gif" width="200" alt="NVIDIA GPU GIF" />
 </p>
