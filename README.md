@@ -24,7 +24,6 @@ Currently building and optimizing miners on cutting-edge AI networks like:
 <p align="center">
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="100" />
   <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="80" />
-  <img src="https://cdn-icons-png.flaticon.com/512/11388/11388354.png" width="40" />
 </p>
 
 ---
