@@ -56,7 +56,12 @@ I specialize in building and programming intelligent robotic systems across land
 - 🏅 **2x VEX IQ, FRC, FTC, FLL champion mentor**  
 - 🔧 Hands-on with **Clawbot IQ, Armbot, Autopilot, Ike**  
 - ✈️ Designed classroom drone navigation challenges with Python + microcontrollers  
-- 🧩 Prototyped AI-based control systems for robotic decision making  
+- 🧩 Prototyped AI-based control systems for robotic decision making
+
+<p align="center">
+  <img src="https://filedb.experts-exchange.com/incoming/2015/06_w26/920246/cyborg.gif" width="280" alt="Cyborg GIF" />
+</p>
+
 
 ---
 
